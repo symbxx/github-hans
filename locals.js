@@ -1441,7 +1441,7 @@ I18N.zh = {
             "Created": "已创建",
             "Assigned": "已分配",
             "Mentioned": "提到的",
-            "Review requests": "提到的",
+            "review-requested": "审查要求",
 
             "Visibility": "可见性",
             "Repository visibility": "仓库可见性",
