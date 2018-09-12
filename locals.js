@@ -14,6 +14,7 @@ I18N.conf = {
      * 点赞页面 /stars
      * 问题页面 /issues
      * 拉取请求 /pulls
+     * 文档页面 /Wiki
      * 搜索页面 /search
      * 趋势页面 /trending
      * 展示页面 /showcases
