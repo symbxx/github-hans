@@ -22,7 +22,7 @@ I18N.conf = {
      *
      * 未登录首页 /
      */
-    rePagePath: /\/(notifications|watching|stars|issues|search|pulls|trending|showcases|$|new\/import)/,
+    rePagePath: /\/(notifications|watching|stars|issues|search|pulls|Wiki|trending|showcases|$|new\/import)/,
 
     /**
      * 匹配 url 页面的正则
